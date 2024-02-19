@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-# I'm Zach Norton
-# My email is znortyy@gmail.com
-# This GitHub account is a collection of all my projects from my time learning from NC State's software development bootcamp and my education at Wake Tech.
-# This repository will hold all of my projects while in my CTI-110 course
-# Previously, I used gitbash to make and edit repositories but this one was made with GitHub desktop which is pretty nice. I just select whatever repository I want to clone and the app does the rest.
+ I'm Zach Norton
+ My email is znortyy@gmail.com
+ This GitHub account is a collection of all my projects from my time learning from NC State's software development bootcamp and my education at Wake Tech.
+ This repository will hold all of my projects while in my CTI-110 course
+ Previously, I used gitbash to make and edit repositories but this one was made with GitHub desktop which is pretty nice. I just select whatever repository I want to clone and the app does the rest.
 <!--
 **zachnorton14/zachnorton14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
