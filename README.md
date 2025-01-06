@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  #### I'm Zach Norton
- #### My email is znortyy@gmail.com
+ #### My email is zachnorton03@gmail.com
  #### This GitHub account is a collection of all my projects from my time learning from NC State's software development bootcamp and my education at Wake Tech & NC State.
 <!--
 **zachnorton14/zachnorton14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
